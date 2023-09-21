@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ML Projects <br>📚 Currently I’m pursuing my B.tech degree from Charusat University in Computer Engineering.<br>🌱 I’m currently learning Data Science and Google Cloud in domain of Data<br>⚡ In my free time, I solve problems on Leetcode and read tech articles.
+🔭 I’m currently working on ML Projects <br>📚 Currently I’m pursuing my B.tech degree from Charusat University in Information Technology.<br>🌱 I’m currently learning Data Science and Google Cloud in domain of Data<br>⚡ In my free time, I solve problems on Leetcode and read tech articles.
 
 
 ## 🌐 Socials:
