@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working as an AI Engineer at Mirai Minds LLP <br>🎓 B.Tech graduate in Information Technology from Charusat University<br>🌱 Specializing in Data Science, ML/AI, and Google Cloud<br>⚡ In my free time, I solve problems on Leetcode and read tech articles.
+🔭 I'm currently working as an AI Engineer at ContextQA <br>🎓 B.Tech graduate in Information Technology from Charusat University<br>🌱 Specializing in Data Science, ML/AI, and Google Cloud<br>⚡ In my free time, I solve problems on Leetcode and read tech articles.
 
 
 ## 🌐 Socials:
